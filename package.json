@@ -1,0 +1,23 @@
+{
+  "name": "democracy-abc-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "download": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cardinalby/democracy-abc-downloader.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cardinalby/democracy-abc-downloader/issues"
+  },
+  "homepage": "https://github.com/cardinalby/democracy-abc-downloader#readme",
+  "dependencies": {
+    "youtube-mp3-converter": "1.0.3",
+    "sanitize-filename": "^1.6.3"
+  }
+}
